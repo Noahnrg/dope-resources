@@ -3,6 +3,10 @@
 - https://feathericons.com/
 - https://material.io/resources/icons/?style=baseline
 
+### Open source assets
+- https://undraw.co/illustrations
+- https://www.pexels.com/
+
 # Web Resources
 ## PWA
 - https://app-manifest.firebaseapp.com/
