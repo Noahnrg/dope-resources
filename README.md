@@ -19,3 +19,5 @@
 # iOS Resources
 ## Splashscreen and Icon Assets
 - https://apetools.webprofusion.com/#/tools/imagegorilla
+## App Icon resizer
+https://appicon.co/
