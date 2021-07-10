@@ -1,23 +1,25 @@
-# Platform Agnostic Resources
-### Icon sets
-- https://feathericons.com/
-- https://material.io/resources/icons/?style=baseline
+# Useful Resources
+The following links are useful for creating apps of all kinds :)
 
-### Open source assets
-- https://undraw.co/illustrations
-- https://www.pexels.com/
+## Design
+- Icon sets
+  - https://fonts.google.com/icons
+  - https://feathericons.com/
+- Open source images
+  - https://undraw.co/illustrations
+  - https://www.pexels.com/
 
-# Web Resources
-## PWA
-- https://app-manifest.firebaseapp.com/
-- https://love2dev.com/blog/beforeinstallprompt/
-- https://medium.com/appscope/changing-the-ios-status-bar-of-your-progressive-web-app-9fc8fbe8e6ab
-## Favicon
-- http://faviconit.com/en
-  - generates favicons, apple touch icons and the HTML header to all devices and browsers.
+## Development (Web)
+  - [Favicon Generator](http://faviconit.com/en)
+  - PWA
+    - https://app-manifest.firebaseapp.com/
+    - https://love2dev.com/blog/beforeinstallprompt/
+    - https://medium.com/appscope/changing-the-ios-status-bar-of-your-progressive-web-app-9fc8fbe8e6ab
 
-# iOS Resources
-## Splashscreen and Icon Assets
-- https://apetools.webprofusion.com/#/tools/imagegorilla
-## App Icon resizer
-https://appicon.co/
+## Development (iOS)
+  - [App Icon Resizer](https://appicon.co/)
+  - https://apetools.webprofusion.com/#/tools/imagegorilla
+
+## Documentation
+  - [Create a README.md](https://readme.so/editor)
+
