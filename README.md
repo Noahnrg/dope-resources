@@ -2,6 +2,11 @@
 The following links are useful for creating apps of all kinds :)
 
 ## Design
+- Asset Manipulation
+  - [SVG](https://jakearchibald.github.io/svgomg)
+  - [Favicon generator](https://favicon.io)
+  - [App Icon Resizer](https://appicon.co/)
+  - [iOS Splashcreen Resizer](https://apetools.webprofusion.com/#/tools/imagegorilla)
 - Icon sets
   - https://fonts.google.com/icons
   - https://feathericons.com/
@@ -9,16 +14,11 @@ The following links are useful for creating apps of all kinds :)
   - https://undraw.co/illustrations
   - https://www.pexels.com/
 
-## Development (Web)
-  - [Favicon Generator](http://faviconit.com/en)
+## Development
   - PWA
     - https://app-manifest.firebaseapp.com/
     - https://love2dev.com/blog/beforeinstallprompt/
     - https://medium.com/appscope/changing-the-ios-status-bar-of-your-progressive-web-app-9fc8fbe8e6ab
-
-## Development (iOS)
-  - [App Icon Resizer](https://appicon.co/)
-  - https://apetools.webprofusion.com/#/tools/imagegorilla
 
 ## Documentation
   - [Create a README.md](https://readme.so/editor)
