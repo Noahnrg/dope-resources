@@ -13,7 +13,8 @@ The following links are useful for creating apps of all kinds :)
 - Open source images
   - https://undraw.co/illustrations
   - https://www.pexels.com/
-
+- Placeholder Images
+  - https://placeholder.com/
 ## Development
   - PWA
     - https://app-manifest.firebaseapp.com/
