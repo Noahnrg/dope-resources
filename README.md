@@ -20,6 +20,10 @@ The following links are useful for creating apps of all kinds :)
     - https://app-manifest.firebaseapp.com/
     - https://love2dev.com/blog/beforeinstallprompt/
     - https://medium.com/appscope/changing-the-ios-status-bar-of-your-progressive-web-app-9fc8fbe8e6ab
+  - JS
+    - Confetti :)
+      - https://www.kirilv.com/canvas-confetti/
+      - https://agezao.github.io/confetti-js/
 
 ## Documentation
   - [Create a README.md](https://readme.so/editor)
